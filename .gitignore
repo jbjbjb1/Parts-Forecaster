@@ -1,0 +1,6 @@
+Pipfile.lock
+data/Dataset1.xlsx
+src/__pycache__/
+data/final_predictions.xlsx
+data/parts_processed.xlsx
+.vscode/

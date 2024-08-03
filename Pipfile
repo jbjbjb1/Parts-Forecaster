@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+prophet = "*"
+openpyxl = "*"
+numpy = "==1.24.0"
+xlsxwriter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
