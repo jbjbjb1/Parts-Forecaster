@@ -9,6 +9,7 @@ prophet = "*"
 openpyxl = "*"
 numpy = "==1.24.0"
 xlsxwriter = "*"
+statsmodels = "*"
 
 [dev-packages]
 
